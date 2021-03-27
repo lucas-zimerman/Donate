@@ -67,7 +67,7 @@ Sending coin or token other than USDT to this address may result in the loss of 
 ![Screenshot](Coins/USDT/QrCode_BEP20_BSC.png)
 0xb465b14baa7e192e669d7ceef3ed61bb88a45327
 
-## <img src="/Coins/DOGE/Logo.png" width="40" height="40" /> DogeCoint (DOGE)
+## <img src="/Coins/DOGE/Logo.png" width="40" height="40" /> DogeCoin (DOGE)
 
 ### NOTE
 Send only DOGE to this deposit address.
